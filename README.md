@@ -1,2 +1,4 @@
 # SimpleFLASKapplication
-This is a simple flask application. I created it as a part of learning HTTP and REST API basics.
+
+A simple flask application that uses python Flask framework in PYTHON. 
+This application was created when playing around with HTTP via a Python flask local webserver
